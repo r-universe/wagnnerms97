@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "TopSisWM"]
+	path = TopSisWM
+	url = https://github.com/cran/TopSisWM
+[submodule "gps.track"]
+	path = gps.track
+	url = https://github.com/cran/gps.track
+[submodule "regr.easy"]
+	path = regr.easy
+	url = https://github.com/cran/regr.easy
