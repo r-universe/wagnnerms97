@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "DataMetProcess"]
 	path = DataMetProcess
-	url = https://github.com/cran/DataMetProcess
+	url = https://github.com/wagnnerms97/datametprocess
 [submodule "TopSisWM"]
 	path = TopSisWM
 	url = https://github.com/cran/TopSisWM
